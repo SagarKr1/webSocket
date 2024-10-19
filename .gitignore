@@ -1,5 +1,11 @@
 server/node_modules
 server/package-lock.json
 
+server1/node_modules
+server1/package-lock.json
+
 client1/node_modules
 client1/package-lock.json
+
+client2/node_modules
+client2/package-lock.json
